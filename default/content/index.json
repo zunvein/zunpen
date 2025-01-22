@@ -782,5 +782,13 @@
     {
         "filename": "presets/context/Mistral V7.json",
         "type": "context"
+    },
+    {
+        "filename": "presets/instruct/DeepSeek-R1.json",
+        "type": "instruct"
+    },
+    {
+        "filename": "presets/context/DeepSeek-R1.json",
+        "type": "context"
     }
 ]

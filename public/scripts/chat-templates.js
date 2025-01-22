@@ -59,6 +59,11 @@ const hash_derivations = {
         // Tulu-3-8B
         // Tulu-3-70B
         'Tulu'
+    ,
+
+    // DeepSeek R1
+    'b6835114b7303ddd78919a82e4d9f7d8c26ed0d7dfc36beeb12d524f6144eab1':
+        'DeepSeek-R1'
 };
 
 const substr_derivations = {
