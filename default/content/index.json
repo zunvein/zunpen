@@ -784,11 +784,11 @@
         "type": "context"
     },
     {
-        "filename": "presets/instruct/DeepSeek-R1.json",
+        "filename": "presets/instruct/DeepSeek-V2.5.json",
         "type": "instruct"
     },
     {
-        "filename": "presets/context/DeepSeek-R1.json",
+        "filename": "presets/context/DeepSeek-V2.5.json",
         "type": "context"
     }
 ]

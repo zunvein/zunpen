@@ -8,7 +8,7 @@
     "stop_sequence": "",
     "wrap": false,
     "macro": true,
-    "names_behavior": "always",
+    "names_behavior": "force",
     "activation_regex": "",
     "skip_examples": false,
     "output_suffix": "<｜end▁of▁sentence｜>",
@@ -18,5 +18,5 @@
     "user_alignment_message": "",
     "last_system_sequence": "",
     "system_same_as_user": false,
-    "name": "DeepSeek-R1"
+    "name": "DeepSeek-V2.5"
 }
