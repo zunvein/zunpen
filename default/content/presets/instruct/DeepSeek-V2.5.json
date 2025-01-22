@@ -17,6 +17,6 @@
     "system_suffix": "",
     "user_alignment_message": "",
     "last_system_sequence": "",
-    "system_same_as_user": false,
+    "system_same_as_user": true,
     "name": "DeepSeek-V2.5"
 }
